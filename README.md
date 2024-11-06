@@ -17,6 +17,10 @@
 - Import an object => create a background with a prompt : https://youtu.be/nikveQixku0?feature=shared
 
 ### Adobe 
+Comme chaque année à l'occasion d'Adobe MAX, Adobe a présenté les Sneaks, les dernières innovations et avancées passionnantes dans les domaines de la photographie, de la vidéo, de l'audio, de la 3D et du design.
+- Adobe Sneaks : Ces Innovations Vont Tout Changer : https://youtu.be/yz9n5vjx4c8?feature=shared
+- Adobe Sneaks videos : https://blog.adobe.com/fr/publish/2024/10/17/adobe-sneaks-les-futures-innovations-pour-la-photo-la-video-l-audio-et-la-creation-3d
+- Firefly Video : https://youtu.be/EGtaASKzlNU?feature=shared
 
 
 
