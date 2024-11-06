@@ -16,6 +16,10 @@
 - Website : https://www.midjourney.com/
 - Import an object => create a background with a prompt : https://youtu.be/nikveQixku0?feature=shared
 
+### Leonardo 
+- Website : https://app.leonardo.ai
+- https://youtu.be/nOnIo5_plWY?feature=shared
+
 ### Adobe 
 Comme chaque année à l'occasion d'Adobe MAX, Adobe a présenté les Sneaks, les dernières innovations et avancées passionnantes dans les domaines de la photographie, de la vidéo, de l'audio, de la 3D et du design.
 - Adobe Sneaks : Ces Innovations Vont Tout Changer : https://youtu.be/yz9n5vjx4c8?feature=shared
