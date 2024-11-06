@@ -12,6 +12,12 @@
 - Heygen for video translation french=> english : https://www.heygen.com/
 - EleventLabs to generate a new voice mine => shrek : https://artlist.io/voice-over
 
+### Midjourney 
+-Website : https://www.midjourney.com/
+- Importer des objets => créer un background avec un prompt : https://youtu.be/nikveQixku0?feature=shared
+
+
+
 
   
 
