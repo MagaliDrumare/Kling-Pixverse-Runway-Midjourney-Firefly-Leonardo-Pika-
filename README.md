@@ -4,6 +4,6 @@
 
 ### Pixverse 
 - Website : https://pixverse.ai/
-- effet speciaux + synchronisation labiale : https://youtu.be/hQVQCddckoc?feature=shared
+- Effets speciaux + synchronisation labiale : https://youtu.be/hQVQCddckoc?feature=shared
   
 
