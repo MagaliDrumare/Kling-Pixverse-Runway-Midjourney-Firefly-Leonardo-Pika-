@@ -14,7 +14,7 @@
 
 ### Midjourney / Edit 
 - Website : https://www.midjourney.com/
-- Importer des objets => créer un background avec un prompt : https://youtu.be/nikveQixku0?feature=shared
+- Import an abject => create a background with a prompt : https://youtu.be/nikveQixku0?feature=shared
 
 
 
