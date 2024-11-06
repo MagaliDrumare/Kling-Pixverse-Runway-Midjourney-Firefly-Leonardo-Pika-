@@ -16,7 +16,7 @@
 - Website : https://www.midjourney.com/
 - Import an object => create a background with a prompt : https://youtu.be/nikveQixku0?feature=shared
 
-### Innovation Adobe 
+### Adobe 
 
 
 
